@@ -6,4 +6,4 @@ Trabalhos desenvolvidos para o contexto acadêmico através da linguagem Java.
 Um sistema de estoque de produtos, simulando, por exemplo, um pequeno comércio. Foi desenvolvimento, primeiramente, de modo mais simples e depois melhorado para lidar com exceções.
 
 ### Associação
-Esse é um sistema que consegue registrar associações e lidar com seus associados e registros financeiros.
+Esse é um sistema que consegue registrar associações e lidar com seus associados e registros financeiros. Foi melhorado para se conectar diretamente com um banco de dados, o MySQL.
