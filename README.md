@@ -1,5 +1,4 @@
-# Projetos desenvolvidos na disciplina Programação Orientada a Objetos
-- desenvolvido em ambiente acadêmico
+# Projetos desenvolvidos Programação Orientada a Objetos
+Trabalhos desenvolvidos para o contexto acadêmico através da linguagem Java.
 
-## Linguagem 
-- Java
+## Trabalhos
